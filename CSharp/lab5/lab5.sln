@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinearAlgebra", "LinearAlgebra\LinearAlgebra.csproj", "{347CD0C5-1906-442A-8580-D16CC317FCFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VectorDemo", "VectorDemo\VectorDemo.csproj", "{5FC96EF5-EA4D-42C0-AA05-B137E6FCC62A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{347CD0C5-1906-442A-8580-D16CC317FCFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{347CD0C5-1906-442A-8580-D16CC317FCFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{347CD0C5-1906-442A-8580-D16CC317FCFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{347CD0C5-1906-442A-8580-D16CC317FCFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FC96EF5-EA4D-42C0-AA05-B137E6FCC62A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FC96EF5-EA4D-42C0-AA05-B137E6FCC62A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FC96EF5-EA4D-42C0-AA05-B137E6FCC62A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FC96EF5-EA4D-42C0-AA05-B137E6FCC62A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9779A9D4-3F76-4942-A72C-D5DE8604B27D}
+	EndGlobalSection
+EndGlobal

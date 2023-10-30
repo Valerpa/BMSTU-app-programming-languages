@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{5FC96EF5-EA4D-42C0-AA05-B137E6FCC62A}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.VectorDemo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LinearAlgebra/MathVector.cs">
+    <Files>
+      <File FileName="VectorDemo/Facade.cs" Line="27" Column="6" />
+      <File FileName="VectorDemo/Program.cs" Line="9" Column="1" />
+      <File FileName="LinearAlgebra/IMathVector.cs" />
+      <File FileName="VectorDemo/Output.cs" Line="20" Column="4" />
+      <File FileName="VectorDemo/Tests.cs" />
+      <File FileName="LinearAlgebra/MathVector.cs" Line="112" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="lab5" expanded="True">
+            <Node name="LinearAlgebra" expanded="True">
+              <Node name="MathVector.cs" selected="True" />
+            </Node>
+            <Node name="VectorDemo" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
