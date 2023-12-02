@@ -1,11 +1,49 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "Demographic/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Demographic.FileOperations": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Demographic.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Demographic.dll": {}
+        }
+      },
+      "Demographic.FileOperations/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Demographic.FileOperations.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Demographic.FileOperations.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Demographic/1.0.0": {
+      "type": "project",
+      "path": "../Demographic/Demographic.csproj",
+      "msbuildProject": "../Demographic/Demographic.csproj"
+    },
+    "Demographic.FileOperations/1.0.0": {
+      "type": "project",
+      "path": "../Demographic.FileOperations/Demographic.FileOperations.csproj",
+      "msbuildProject": "../Demographic.FileOperations/Demographic.FileOperations.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "Demographic >= 1.0.0",
+      "Demographic.FileOperations >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/Users/valerikanasha228/.nuget/packages/": {}
@@ -32,7 +70,14 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/valerikanasha228/Desktop/labs_3sem/CSharp/lab6/Demographic/Demographic.FileOperations/Demographic.FileOperations.csproj": {
+              "projectPath": "/Users/valerikanasha228/Desktop/labs_3sem/CSharp/lab6/Demographic/Demographic.FileOperations/Demographic.FileOperations.csproj"
+            },
+            "/Users/valerikanasha228/Desktop/labs_3sem/CSharp/lab6/Demographic/Demographic/Demographic.csproj": {
+              "projectPath": "/Users/valerikanasha228/Desktop/labs_3sem/CSharp/lab6/Demographic/Demographic/Demographic.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -55,12 +100,26 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[7.0.14, 7.0.14]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.osx-arm64",
+            "version": "[7.0.14, 7.0.14]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[7.0.14, 7.0.14]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.402/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
       }
     }
   }

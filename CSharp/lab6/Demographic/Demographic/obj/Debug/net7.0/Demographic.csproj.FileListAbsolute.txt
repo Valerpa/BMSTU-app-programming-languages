@@ -1,0 +1,15 @@
+/Users/valerikanasha228/Desktop/labs_3sem/CSharp/lab6/Demographic/Demographic/bin/Debug/net7.0/Demographic.deps.json
+/Users/valerikanasha228/Desktop/labs_3sem/CSharp/lab6/Demographic/Demographic/bin/Debug/net7.0/Demographic.dll
+/Users/valerikanasha228/Desktop/labs_3sem/CSharp/lab6/Demographic/Demographic/bin/Debug/net7.0/Demographic.pdb
+/Users/valerikanasha228/Desktop/labs_3sem/CSharp/lab6/Demographic/Demographic/bin/Debug/net7.0/Demographic.FileOperations.dll
+/Users/valerikanasha228/Desktop/labs_3sem/CSharp/lab6/Demographic/Demographic/bin/Debug/net7.0/Demographic.FileOperations.pdb
+/Users/valerikanasha228/Desktop/labs_3sem/CSharp/lab6/Demographic/Demographic/obj/Debug/net7.0/Demographic.csproj.AssemblyReference.cache
+/Users/valerikanasha228/Desktop/labs_3sem/CSharp/lab6/Demographic/Demographic/obj/Debug/net7.0/Demographic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valerikanasha228/Desktop/labs_3sem/CSharp/lab6/Demographic/Demographic/obj/Debug/net7.0/Demographic.AssemblyInfoInputs.cache
+/Users/valerikanasha228/Desktop/labs_3sem/CSharp/lab6/Demographic/Demographic/obj/Debug/net7.0/Demographic.AssemblyInfo.cs
+/Users/valerikanasha228/Desktop/labs_3sem/CSharp/lab6/Demographic/Demographic/obj/Debug/net7.0/Demographic.csproj.CoreCompileInputs.cache
+/Users/valerikanasha228/Desktop/labs_3sem/CSharp/lab6/Demographic/Demographic/obj/Debug/net7.0/Demographic.csproj.CopyComplete
+/Users/valerikanasha228/Desktop/labs_3sem/CSharp/lab6/Demographic/Demographic/obj/Debug/net7.0/Demographic.dll
+/Users/valerikanasha228/Desktop/labs_3sem/CSharp/lab6/Demographic/Demographic/obj/Debug/net7.0/refint/Demographic.dll
+/Users/valerikanasha228/Desktop/labs_3sem/CSharp/lab6/Demographic/Demographic/obj/Debug/net7.0/Demographic.pdb
+/Users/valerikanasha228/Desktop/labs_3sem/CSharp/lab6/Demographic/Demographic/obj/Debug/net7.0/ref/Demographic.dll

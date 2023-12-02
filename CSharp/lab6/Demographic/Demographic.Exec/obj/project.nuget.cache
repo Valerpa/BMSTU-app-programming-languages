@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "s9scMNl5KlZr/FjC9dsJtDZLVit+f1j7W+ZqmgwXgSjvtCDCdhw/bAol+jlcPJ3yO+jT0LAq1qcc917u82rYWA==",
+  "dgSpecHash": "H7PtdaPnFFmNt4TZcu7ZDZAugrqHoNnwFcgVjKYAd49FZldg3Ij+mW7eAjVtdQWuG7REMRZjXbzJQsVKa5u0ug==",
   "success": true,
   "projectFilePath": "/Users/valerikanasha228/Desktop/labs_3sem/CSharp/lab6/Demographic/Demographic.Exec/Demographic.Exec.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/valerikanasha228/.nuget/packages/microsoft.netcore.app.ref/7.0.14/microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/valerikanasha228/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/valerikanasha228/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.14/microsoft.netcore.app.host.osx-arm64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

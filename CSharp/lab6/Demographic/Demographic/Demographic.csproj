@@ -6,4 +6,8 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\Demographic.FileOperations\Demographic.FileOperations.csproj" />
+    </ItemGroup>
+
 </Project>

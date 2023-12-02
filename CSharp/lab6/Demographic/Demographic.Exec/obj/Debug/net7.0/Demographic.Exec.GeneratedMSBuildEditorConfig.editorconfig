@@ -9,3 +9,5 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Demographic.Exec
 build_property.ProjectDir = /Users/valerikanasha228/Desktop/labs_3sem/CSharp/lab6/Demographic/Demographic.Exec/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

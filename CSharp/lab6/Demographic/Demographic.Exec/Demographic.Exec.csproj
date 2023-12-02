@@ -7,4 +7,9 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\Demographic.FileOperations\Demographic.FileOperations.csproj" />
+      <ProjectReference Include="..\Demographic\Demographic.csproj" />
+    </ItemGroup>
+
 </Project>
