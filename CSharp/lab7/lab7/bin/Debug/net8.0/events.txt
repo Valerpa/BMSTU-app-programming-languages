@@ -1,0 +1,4 @@
+02.12.2023 00:21:22 - Processor 1 processed event 1: New clothing batch arrived
+02.12.2023 00:21:22 - Event 2: Clothing sorted for men's department added to queue
+02.12.2023 00:21:22 - Event 3: Clothing displayed for demonstration added to queue
+02.12.2023 00:21:22 - Processor 2 processed event 3: Clothing displayed for demonstration

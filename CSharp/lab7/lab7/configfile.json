@@ -1,0 +1,7 @@
+{
+  "EventSettings": {
+    "SupplierFrequency": "1,0",
+    "SorterProcessingTime": "1,2",
+    "FitterProcessingTime": "5,0"
+  }
+}

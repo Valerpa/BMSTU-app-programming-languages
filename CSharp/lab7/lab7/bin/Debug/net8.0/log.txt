@@ -1,0 +1,5 @@
+02.12.2023 00:49:00 - Emitter generated event: Event1
+02.12.2023 00:49:00 - Emitter generated event: Event2
+02.12.2023 00:49:00 - Emitter generated event: Event3
+02.12.2023 00:49:00 - Emitter generated event: Event4
+02.12.2023 00:49:00 - Emitter generated event: Event5

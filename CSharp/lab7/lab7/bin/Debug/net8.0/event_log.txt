@@ -1,0 +1,345 @@
+02.12.2023 00:37:11 - Processed event 1 - ProductArrival. Total processed: 3
+02.12.2023 00:37:11 - Metrics - Processed Events: 3
+02.12.2023 00:37:11 - Processed event 2 - TryingOn. Total processed: 4
+02.12.2023 00:37:11 - Metrics - Processed Events: 4
+02.12.2023 00:37:11 - Processed event 3 - TryingOn. Total processed: 5
+02.12.2023 00:37:11 - Metrics - Processed Events: 5
+02.12.2023 00:37:11 - Processed event 4 - ProductArrival. Total processed: 5
+02.12.2023 00:37:11 - Metrics - Processed Events: 5
+02.12.2023 00:37:12 - Processed event 5 - WarehouseTransfer. Total processed: 7
+02.12.2023 00:37:12 - Metrics - Processed Events: 7
+02.12.2023 00:37:12 - Processed event 6 - ProductArrival. Total processed: 8
+02.12.2023 00:37:12 - Metrics - Processed Events: 8
+02.12.2023 00:37:12 - Processed event 7 - WarehouseTransfer. Total processed: 9
+02.12.2023 00:37:12 - Metrics - Processed Events: 9
+02.12.2023 00:37:12 - Processed event 8 - WarehouseTransfer. Total processed: 10
+02.12.2023 00:37:12 - Metrics - Processed Events: 10
+02.12.2023 00:37:12 - Processed event 9 - WarehouseTransfer. Total processed: 11
+02.12.2023 00:37:12 - Metrics - Processed Events: 11
+02.12.2023 00:37:12 - Processed event 10 - ProductArrival. Total processed: 12
+02.12.2023 00:37:12 - Metrics - Processed Events: 12
+02.12.2023 00:37:12 - Processed event 11 - ProductArrival. Total processed: 13
+02.12.2023 00:37:12 - Metrics - Processed Events: 13
+02.12.2023 00:37:12 - Processed event 12 - ProductArrival. Total processed: 14
+02.12.2023 00:37:12 - Metrics - Processed Events: 14
+02.12.2023 00:37:12 - Processed event 13 - WarehouseTransfer. Total processed: 15
+02.12.2023 00:37:12 - Metrics - Processed Events: 15
+02.12.2023 00:37:12 - Processed event 14 - WarehouseTransfer. Total processed: 16
+02.12.2023 00:37:12 - Metrics - Processed Events: 16
+02.12.2023 00:37:13 - Processed event 15 - Sorting. Total processed: 17
+02.12.2023 00:37:13 - Metrics - Processed Events: 17
+02.12.2023 00:37:13 - Processed event 16 - WarehouseTransfer. Total processed: 18
+02.12.2023 00:37:13 - Metrics - Processed Events: 18
+02.12.2023 00:37:13 - Processed event 17 - WarehouseTransfer. Total processed: 19
+02.12.2023 00:37:13 - Metrics - Processed Events: 19
+02.12.2023 00:37:13 - Processed event 18 - ProductArrival. Total processed: 20
+02.12.2023 00:37:13 - Metrics - Processed Events: 20
+02.12.2023 00:37:13 - Event generation completed.
+. Total processed: 20
+02.12.2023 00:37:13 - Metrics - Processed Events: 20
+02.12.2023 00:37:13 - Processed event 20 - ProductArrival. Total processed: 20
+02.12.2023 00:37:13 - Metrics - Processed Events: 20
+00:39:22 - Handler 3 handled event 1 - Sorting
+00:39:22 - Processed event 1 - Sorting. Total processed: 3
+00:39:22 - Metrics - Processed Events: 3
+00:39:22 - Handler 2 handled event 2 - Sorting
+00:39:22 - Processed event 2 - Sorting. Total processed: 4
+00:39:22 - Metrics - Processed Events: 4
+00:39:23 - Handler 3 handled event 3 - WarehouseTransfer
+00:39:23 - Handler 2 handled event 3 - WarehouseTransfer
+00:39:23 - Handler 1 handled event 3 - WarehouseTransfer
+00:39:23 - Processed event 3 - WarehouseTransfer. Total processed: 5
+00:39:23 - Metrics - Processed Events: 5
+00:39:23 - Handler 1 handled event 4 - TryingOn
+00:39:23 - Handler 2 handled event 4 - TryingOn
+00:39:23 - Processed event 4 - TryingOn. Total processed: 6
+00:39:23 - Metrics - Processed Events: 6
+00:39:23 - Handler 3 handled event 5 - WarehouseTransfer
+00:39:23 - Handler 2 handled event 5 - WarehouseTransfer
+00:39:23 - Processed event 5 - WarehouseTransfer. Total processed: 7
+00:39:23 - Metrics - Processed Events: 7
+00:39:23 - Handler 3 handled event 6 - WarehouseTransfer
+00:39:23 - Handler 2 handled event 6 - WarehouseTransfer
+00:39:23 - Processed event 6 - WarehouseTransfer. Total processed: 8
+00:39:23 - Metrics - Processed Events: 8
+00:39:23 - Handler 1 handled event 7 - ProductArrival
+00:39:23 - Processed event 7 - ProductArrival. Total processed: 9
+00:39:23 - Metrics - Processed Events: 9
+00:39:23 - Handler 1 handled event 8 - Sorting
+00:39:23 - Handler 2 handled event 8 - Sorting
+00:39:23 - Processed event 8 - Sorting. Total processed: 10
+00:39:23 - Metrics - Processed Events: 10
+00:39:23 - Handler 2 handled event 9 - TryingOn
+00:39:23 - Handler 1 handled event 9 - TryingOn
+00:39:23 - Processed event 9 - TryingOn. Total processed: 10
+00:39:23 - Metrics - Processed Events: 10
+00:39:23 - Handler 2 handled event 10 - ProductArrival
+00:39:23 - Processed event 10 - ProductArrival. Total processed: 12
+00:39:23 - Metrics - Processed Events: 12
+00:39:23 - Handler 3 handled event 11 - WarehouseTransfer
+00:39:23 - Handler 1 handled event 11 - WarehouseTransfer
+00:39:23 - Processed event 11 - WarehouseTransfer. Total processed: 13
+00:39:23 - Metrics - Processed Events: 13
+00:39:23 - Handler 2 handled event 12 - WarehouseTransfer
+00:39:23 - Handler 1 handled event 12 - WarehouseTransfer
+00:39:23 - Processed event 12 - WarehouseTransfer. Total processed: 14
+00:39:23 - Metrics - Processed Events: 14
+00:39:24 - Handler 1 handled event 13 - TryingOn
+00:39:24 - Processed event 13 - TryingOn. Total processed: 15
+00:39:24 - Metrics - Processed Events: 15
+00:39:24 - Handler 1 handled event 14 - Sorting
+00:39:24 - Handler 3 handled event 14 - Sorting
+00:39:24 - Processed event 14 - Sorting. Total processed: 16
+00:39:24 - Metrics - Processed Events: 16
+00:39:24 - Handler 3 handled event 15 - WarehouseTransfer
+00:39:24 - Handler 2 handled event 15 - WarehouseTransfer
+00:39:24 - Processed event 15 - WarehouseTransfer. Total processed: 17
+00:39:24 - Metrics - Processed Events: 17
+00:39:24 - Handler 1 handled event 16 - Sorting
+00:39:24 - Processed event 16 - Sorting. Total processed: 18
+00:39:24 - Metrics - Processed Events: 18
+00:39:24 - Handler 2 handled event 17 - ProductArrival
+00:39:24 - Processed event 17 - ProductArrival. Total processed: 19
+00:39:24 - Metrics - Processed Events: 19
+00:39:24 - Handler 2 handled event 18 - Sorting
+00:39:24 - Handler 3 handled event 18 - Sorting
+00:39:24 - Processed event 18 - Sorting. Total processed: 20
+00:39:24 - Metrics - Processed Events: 20
+00:39:24 - Handler 1 handled event 19 - Sorting
+00:39:24 - Processed event 19 - Sorting. Total processed: 20
+00:39:24 - Metrics - Processed Events: 20
+00:39:24 - Event generation completed.
+00:39:24 - Handler 3 handled event 20 - TryingOn
+00:39:24 - Processed event 20 - TryingOn. Total processed: 20
+00:39:24 - Metrics - Processed Events: 20
+00:40:43 - Handler 3 handled event 1 - WarehouseTransfer
+00:40:43 - emitter generated event 1 - WarehouseTransfer
+00:40:43 - Metrics - Processed Events: 3
+00:40:43 - Handler 1 handled event 2 - WarehouseTransfer
+00:40:43 - emitter generated event 2 - WarehouseTransfer
+00:40:43 - Metrics - Processed Events: 4
+00:40:44 - Handler 1 handled event 3 - Sorting
+00:40:44 - Handler 2 handled event 3 - Sorting
+00:40:44 - emitter generated event 3 - Sorting
+00:40:44 - Metrics - Processed Events: 5
+00:40:44 - Handler 1 handled event 4 - Sorting
+00:40:44 - Handler 2 handled event 4 - Sorting
+00:40:44 - emitter generated event 4 - Sorting
+00:40:44 - Metrics - Processed Events: 6
+00:40:44 - Handler 2 handled event 5 - Sorting
+00:40:44 - Handler 1 handled event 5 - Sorting
+00:40:44 - emitter generated event 5 - Sorting
+00:40:44 - Metrics - Processed Events: 7
+00:40:44 - Handler 2 handled event 6 - ProductArrival
+00:40:44 - Handler 1 handled event 6 - ProductArrival
+00:40:44 - emitter generated event 6 - ProductArrival
+00:40:44 - Metrics - Processed Events: 8
+00:40:44 - Handler 1 handled event 7 - ProductArrival
+00:40:44 - Handler 2 handled event 7 - ProductArrival
+00:40:44 - emitter generated event 7 - ProductArrival
+00:40:44 - Metrics - Processed Events: 9
+00:40:44 - Handler 2 handled event 8 - ProductArrival
+00:40:44 - emitter generated event 8 - ProductArrival
+00:40:44 - Metrics - Processed Events: 10
+00:40:44 - Handler 2 handled event 9 - WarehouseTransfer
+00:40:44 - Handler 1 handled event 9 - WarehouseTransfer
+00:40:44 - emitter generated event 9 - WarehouseTransfer
+00:40:44 - Metrics - Processed Events: 11
+00:40:44 - Handler 2 handled event 10 - WarehouseTransfer
+00:40:44 - Handler 1 handled event 10 - WarehouseTransfer
+00:40:44 - emitter generated event 10 - WarehouseTransfer
+00:40:44 - Metrics - Processed Events: 11
+00:40:44 - Handler 3 handled event 11 - Sorting
+00:40:44 - emitter generated event 11 - Sorting
+00:40:44 - Metrics - Processed Events: 13
+00:40:44 - Handler 3 handled event 12 - WarehouseTransfer
+00:40:44 - Handler 2 handled event 12 - WarehouseTransfer
+00:40:44 - emitter generated event 12 - WarehouseTransfer
+00:40:44 - Metrics - Processed Events: 13
+00:40:45 - Handler 1 handled event 13 - Sorting
+00:40:45 - Handler 3 handled event 13 - Sorting
+00:40:45 - emitter generated event 13 - Sorting
+00:40:45 - Metrics - Processed Events: 15
+00:40:45 - Handler 1 handled event 14 - Sorting
+00:40:45 - emitter generated event 14 - Sorting
+00:40:45 - Metrics - Processed Events: 16
+00:40:45 - Handler 2 handled event 15 - Sorting
+00:40:45 - Handler 3 handled event 15 - Sorting
+00:40:45 - emitter generated event 15 - Sorting
+00:40:45 - Metrics - Processed Events: 17
+00:40:45 - Handler 3 handled event 16 - WarehouseTransfer
+00:40:45 - Handler 1 handled event 16 - WarehouseTransfer
+00:40:45 - Handler 2 handled event 16 - WarehouseTransfer
+00:40:45 - emitter generated event 16 - WarehouseTransfer
+00:40:45 - Metrics - Processed Events: 18
+00:40:45 - Handler 3 handled event 17 - ProductArrival
+00:40:45 - emitter generated event 17 - ProductArrival
+00:40:45 - Metrics - Processed Events: 19
+00:40:45 - Handler 1 handled event 18 - WarehouseTransfer
+00:40:45 - Handler 3 handled event 18 - WarehouseTransfer
+00:40:45 - emitter generated event 18 - WarehouseTransfer
+00:40:45 - Metrics - Processed Events: 19
+00:40:45 - Event generation completed.
+ TryingOn
+00:40:45 - Handler 3 handled event 19 - TryingOn
+00:40:45 - emitter generated event 19 - TryingOn
+00:40:45 - Metrics - Processed Events: 20
+00:40:45 - Handler 3 handled event 20 - TryingOn
+00:40:45 - Handler 1 handled event 20 - TryingOn
+00:40:45 - Handler 2 handled event 20 - TryingOn
+00:40:45 - emitter generated event 20 - TryingOn
+00:40:45 - Metrics - Processed Events: 20
+01:14:47 - Emitter generated event 1 - New Event Type
+01:14:48 - Emitter generated event 2 - New Event Type
+01:14:49 - Emitter generated event 3 - New Event Type
+01:14:50 - Emitter generated event 4 - New Event Type
+01:14:51 - Emitter generated event 5 - New Event Type
+01:14:52 - Emitter generated event 6 - New Event Type
+01:14:53 - Emitter generated event 7 - New Event Type
+01:14:54 - Emitter generated event 8 - New Event Type
+01:14:55 - Emitter generated event 9 - New Event Type
+01:14:56 - Emitter generated event 10 - New Event Type
+01:14:57 - Emitter generated event 11 - New Event Type
+01:14:58 - Emitter generated event 12 - New Event Type
+01:14:59 - Emitter generated event 13 - New Event Type
+01:15:00 - Emitter generated event 14 - New Event Type
+01:15:01 - Emitter generated event 15 - New Event Type
+01:15:02 - Emitter generated event 16 - New Event Type
+01:15:03 - Emitter generated event 17 - New Event Type
+01:15:04 - Emitter generated event 18 - New Event Type
+01:15:05 - Emitter generated event 19 - New Event Type
+01:15:06 - Emitter generated event 20 - New Event Type
+01:15:07 - Emitter generated event 21 - New Event Type
+01:15:08 - Emitter generated event 22 - New Event Type
+01:15:09 - Emitter generated event 23 - New Event Type
+01:15:10 - Emitter generated event 24 - New Event Type
+01:15:11 - Emitter generated event 25 - New Event Type
+01:15:12 - Emitter generated event 26 - New Event Type
+01:15:13 - Emitter generated event 27 - New Event Type
+01:15:14 - Emitter generated event 28 - New Event Type
+01:15:15 - Emitter generated event 29 - New Event Type
+01:15:16 - Emitter generated event 30 - New Event Type
+01:15:17 - Emitter generated event 31 - New Event Type
+01:15:18 - Emitter generated event 32 - New Event Type
+01:15:19 - Emitter generated event 33 - New Event Type
+01:15:20 - Emitter generated event 34 - New Event Type
+01:15:21 - Emitter generated event 35 - New Event Type
+01:15:22 - Emitter generated event 36 - New Event Type
+01:15:23 - Emitter generated event 37 - New Event Type
+01:15:24 - Emitter generated event 38 - New Event Type
+01:15:25 - Emitter generated event 39 - New Event Type
+01:15:26 - Emitter generated event 40 - New Event Type
+01:15:27 - Emitter generated event 41 - New Event Type
+01:15:28 - Emitter generated event 42 - New Event Type
+01:15:29 - Emitter generated event 43 - New Event Type
+01:15:30 - Emitter generated event 44 - New Event Type
+01:15:31 - Emitter generated event 45 - New Event Type
+01:15:32 - Emitter generated event 46 - New Event Type
+01:15:33 - Emitter generated event 47 - New Event Type
+01:15:34 - Emitter generated event 48 - New Event Type
+01:15:35 - Emitter generated event 49 - New Event Type
+01:15:36 - Emitter generated event 50 - New Event Type
+01:15:37 - Emitter generated event 51 - New Event Type
+01:15:38 - Emitter generated event 52 - New Event Type
+01:15:39 - Emitter generated event 53 - New Event Type
+01:15:40 - Emitter generated event 54 - New Event Type
+01:15:41 - Emitter generated event 55 - New Event Type
+01:15:42 - Emitter generated event 56 - New Event Type
+01:15:43 - Emitter generated event 57 - New Event Type
+01:15:44 - Emitter generated event 58 - New Event Type
+01:15:45 - Emitter generated event 59 - New Event Type
+01:15:46 - Emitter generated event 60 - New Event Type
+01:15:47 - Emitter generated event 61 - New Event Type
+01:15:48 - Emitter generated event 62 - New Event Type
+01:15:49 - Emitter generated event 63 - New Event Type
+01:15:50 - Emitter generated event 64 - New Event Type
+01:15:51 - Emitter generated event 65 - New Event Type
+01:15:52 - Emitter generated event 66 - New Event Type
+01:15:53 - Emitter generated event 67 - New Event Type
+01:15:54 - Emitter generated event 68 - New Event Type
+01:15:55 - Emitter generated event 69 - New Event Type
+01:15:56 - Emitter generated event 70 - New Event Type
+01:15:57 - Emitter generated event 71 - New Event Type
+01:15:58 - Emitter generated event 72 - New Event Type
+01:15:59 - Emitter generated event 73 - New Event Type
+01:16:00 - Emitter generated event 74 - New Event Type
+01:16:01 - Emitter generated event 75 - New Event Type
+01:16:02 - Emitter generated event 76 - New Event Type
+01:16:03 - Emitter generated event 77 - New Event Type
+01:16:04 - Emitter generated event 78 - New Event Type
+01:16:05 - Emitter generated event 79 - New Event Type
+01:16:06 - Emitter generated event 80 - New Event Type
+01:16:07 - Emitter generated event 81 - New Event Type
+01:16:08 - Emitter generated event 82 - New Event Type
+01:16:09 - Emitter generated event 83 - New Event Type
+01:16:10 - Emitter generated event 84 - New Event Type
+01:16:11 - Emitter generated event 85 - New Event Type
+01:16:12 - Emitter generated event 86 - New Event Type
+01:16:13 - Emitter generated event 87 - New Event Type
+01:16:14 - Emitter generated event 88 - New Event Type
+01:16:15 - Emitter generated event 89 - New Event Type
+01:16:16 - Emitter generated event 90 - New Event Type
+01:16:17 - Emitter generated event 91 - New Event Type
+01:16:18 - Emitter generated event 92 - New Event Type
+01:16:19 - Emitter generated event 93 - New Event Type
+01:16:20 - Emitter generated event 94 - New Event Type
+01:16:21 - Emitter generated event 95 - New Event Type
+01:16:22 - Emitter generated event 96 - New Event Type
+01:16:23 - Emitter generated event 97 - New Event Type
+01:16:24 - Emitter generated event 98 - New Event Type
+01:16:25 - Emitter generated event 99 - New Event Type
+01:16:26 - Emitter generated event 100 - New Event Type
+01:16:27 - Emitter generated event 101 - New Event Type
+01:16:28 - Emitter generated event 102 - New Event Type
+01:16:29 - Emitter generated event 103 - New Event Type
+01:16:30 - Emitter generated event 104 - New Event Type
+01:16:31 - Emitter generated event 105 - New Event Type
+01:16:32 - Emitter generated event 106 - New Event Type
+01:16:33 - Emitter generated event 107 - New Event Type
+01:16:34 - Emitter generated event 108 - New Event Type
+01:16:35 - Emitter generated event 109 - New Event Type
+01:16:36 - Emitter generated event 110 - New Event Type
+01:16:37 - Emitter generated event 111 - New Event Type
+01:16:38 - Emitter generated event 112 - New Event Type
+01:16:39 - Emitter generated event 113 - New Event Type
+01:16:40 - Emitter generated event 114 - New Event Type
+01:16:41 - Emitter generated event 115 - New Event Type
+01:16:42 - Emitter generated event 116 - New Event Type
+01:16:43 - Emitter generated event 117 - New Event Type
+01:16:44 - Emitter generated event 118 - New Event Type
+01:16:45 - Emitter generated event 119 - New Event Type
+01:16:46 - Emitter generated event 120 - New Event Type
+01:16:47 - Emitter generated event 121 - New Event Type
+01:16:48 - Emitter generated event 122 - New Event Type
+01:16:49 - Emitter generated event 123 - New Event Type
+01:16:50 - Emitter generated event 124 - New Event Type
+01:16:51 - Emitter generated event 125 - New Event Type
+01:16:52 - Emitter generated event 126 - New Event Type
+01:16:53 - Emitter generated event 127 - New Event Type
+01:16:54 - Emitter generated event 128 - New Event Type
+01:16:55 - Emitter generated event 129 - New Event Type
+01:16:56 - Emitter generated event 130 - New Event Type
+01:16:57 - Emitter generated event 131 - New Event Type
+01:16:58 - Emitter generated event 132 - New Event Type
+01:17:00 - Emitter generated event 0 - New Event Type
+01:17:01 - Emitter generated event 1 - New Event Type
+01:17:02 - Emitter generated event 2 - New Event Type
+01:17:03 - Emitter generated event 3 - New Event Type
+01:17:04 - Emitter generated event 4 - New Event Type
+01:17:05 - Emitter generated event 5 - New Event Type
+01:17:06 - Emitter generated event 6 - New Event Type
+01:17:07 - Emitter generated event 7 - New Event Type
+01:17:08 - Emitter generated event 8 - New Event Type
+01:17:09 - Emitter generated event 9 - New Event Type
+01:19:47 - Emitter generated event 0 - New Event Type
+01:19:48 - Emitter generated event 1 - New Event Type
+01:19:49 - Emitter generated event 2 - New Event Type
+01:19:50 - Emitter generated event 3 - New Event Type
+01:19:51 - Emitter generated event 4 - New Event Type
+01:19:52 - Emitter generated event 5 - New Event Type
+01:19:53 - Emitter generated event 6 - New Event Type
+01:19:54 - Emitter generated event 7 - New Event Type
+01:19:55 - Emitter generated event 8 - New Event Type
+01:19:56 - Emitter generated event 9 - New Event Type
+01:21:42 - Emitter generated event 0 - New Event Type
+01:21:50 - Emitter generated event 0 - New Event Type
