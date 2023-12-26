@@ -1,0 +1,14 @@
+/Users/valerikanasha228/Desktop/labs_3sem/CSharp/lab9/DatabaseModels/bin/Debug/net8.0/DatabaseModels.deps.json
+/Users/valerikanasha228/Desktop/labs_3sem/CSharp/lab9/DatabaseModels/bin/Debug/net8.0/DatabaseModels.dll
+/Users/valerikanasha228/Desktop/labs_3sem/CSharp/lab9/DatabaseModels/bin/Debug/net8.0/DatabaseModels.pdb
+/Users/valerikanasha228/Desktop/labs_3sem/CSharp/lab9/DatabaseModels/obj/Debug/net8.0/DatabaseModels.csproj.AssemblyReference.cache
+/Users/valerikanasha228/Desktop/labs_3sem/CSharp/lab9/DatabaseModels/obj/Debug/net8.0/DatabaseModels.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valerikanasha228/Desktop/labs_3sem/CSharp/lab9/DatabaseModels/obj/Debug/net8.0/DatabaseModels.AssemblyInfoInputs.cache
+/Users/valerikanasha228/Desktop/labs_3sem/CSharp/lab9/DatabaseModels/obj/Debug/net8.0/DatabaseModels.AssemblyInfo.cs
+/Users/valerikanasha228/Desktop/labs_3sem/CSharp/lab9/DatabaseModels/obj/Debug/net8.0/DatabaseModels.csproj.CoreCompileInputs.cache
+/Users/valerikanasha228/Desktop/labs_3sem/CSharp/lab9/DatabaseModels/obj/Debug/net8.0/DatabaseModels.dll
+/Users/valerikanasha228/Desktop/labs_3sem/CSharp/lab9/DatabaseModels/obj/Debug/net8.0/refint/DatabaseModels.dll
+/Users/valerikanasha228/Desktop/labs_3sem/CSharp/lab9/DatabaseModels/obj/Debug/net8.0/DatabaseModels.pdb
+/Users/valerikanasha228/Desktop/labs_3sem/CSharp/lab9/DatabaseModels/obj/Debug/net8.0/ref/DatabaseModels.dll
+/Users/valerikanasha228/Desktop/labs_3sem/CSharp/lab9/DatabaseModels/bin/Debug/net8.0/DatabaseModels.runtimeconfig.json
+/Users/valerikanasha228/Desktop/labs_3sem/CSharp/lab9/DatabaseModels/obj/Debug/net8.0/DatabaseModels.genruntimeconfig.cache

@@ -1,0 +1,17 @@
+/Users/valerikanasha228/Desktop/labs_3sem/CSharp/lab9/DatabaseContext/obj/Debug/net8.0/DatabaseContext.csproj.AssemblyReference.cache
+/Users/valerikanasha228/Desktop/labs_3sem/CSharp/lab9/DatabaseContext/obj/Debug/net8.0/DatabaseContext.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valerikanasha228/Desktop/labs_3sem/CSharp/lab9/DatabaseContext/obj/Debug/net8.0/DatabaseContext.AssemblyInfoInputs.cache
+/Users/valerikanasha228/Desktop/labs_3sem/CSharp/lab9/DatabaseContext/obj/Debug/net8.0/DatabaseContext.AssemblyInfo.cs
+/Users/valerikanasha228/Desktop/labs_3sem/CSharp/lab9/DatabaseContext/obj/Debug/net8.0/DatabaseContext.csproj.CoreCompileInputs.cache
+/Users/valerikanasha228/Desktop/labs_3sem/CSharp/lab9/DatabaseContext/bin/Debug/net8.0/DatabaseContext.deps.json
+/Users/valerikanasha228/Desktop/labs_3sem/CSharp/lab9/DatabaseContext/bin/Debug/net8.0/DatabaseContext.dll
+/Users/valerikanasha228/Desktop/labs_3sem/CSharp/lab9/DatabaseContext/bin/Debug/net8.0/DatabaseContext.pdb
+/Users/valerikanasha228/Desktop/labs_3sem/CSharp/lab9/DatabaseContext/bin/Debug/net8.0/DatabaseModels.dll
+/Users/valerikanasha228/Desktop/labs_3sem/CSharp/lab9/DatabaseContext/bin/Debug/net8.0/DatabaseModels.pdb
+/Users/valerikanasha228/Desktop/labs_3sem/CSharp/lab9/DatabaseContext/obj/Debug/net8.0/DatabaseContext.csproj.CopyComplete
+/Users/valerikanasha228/Desktop/labs_3sem/CSharp/lab9/DatabaseContext/obj/Debug/net8.0/DatabaseContext.dll
+/Users/valerikanasha228/Desktop/labs_3sem/CSharp/lab9/DatabaseContext/obj/Debug/net8.0/refint/DatabaseContext.dll
+/Users/valerikanasha228/Desktop/labs_3sem/CSharp/lab9/DatabaseContext/obj/Debug/net8.0/DatabaseContext.pdb
+/Users/valerikanasha228/Desktop/labs_3sem/CSharp/lab9/DatabaseContext/obj/Debug/net8.0/ref/DatabaseContext.dll
+/Users/valerikanasha228/Desktop/labs_3sem/CSharp/lab9/DatabaseContext/bin/Debug/net8.0/DatabaseContext.runtimeconfig.json
+/Users/valerikanasha228/Desktop/labs_3sem/CSharp/lab9/DatabaseContext/obj/Debug/net8.0/DatabaseContext.genruntimeconfig.cache
